@@ -10,13 +10,5 @@ paste it where it says "paste your Webhook"
 - i think max threads are like 2k, then u get rate limited all the time
 - updating weekly
 
-
-.------..------..------..------..------.
-|E.--. ||N.--. ||C.--. ||R.--. ||0.--. |
-| (\/) || :(): || :/\: || :(): || :/\: |
-| :\/: || ()() || :\/: || ()() || :\/: |
-| '--'E|| '--'N|| '--'C|| '--'R|| '--'0|
-`------'`------'`------'`------'`------'
-
                                                                    
                                                                   
