@@ -1,5 +1,7 @@
 # Roblox-group-finder
 
+(fixed main.py, had a syntax error) 
+
 A tool to help you find ownerless roblox groups
 
 Edit channel -> Integrations -> Webhooks
