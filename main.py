@@ -1,5 +1,9 @@
-import os import threading import requests import random from dhooks
-import Webhook import ctypes
+import os 
+import threading 
+import requests
+import random 
+from dhooks import Webhook 
+import ctypes
 
 ctypes.windll.kernel32.SetConsoleTitleW("Encr0 Group Finder")
 
